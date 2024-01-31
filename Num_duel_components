@@ -1,0 +1,6 @@
+LCD_Display_NUM_Duel
+The basic idea is to be explained in the next file
+LCD_1 = 16, 2
+components: PCB wires, jumper wires, LCD(16,2), 2 buttons, an arduino.
+
+#include <LiquidCrystal.h>
